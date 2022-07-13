@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "006c7ea23e66799a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab63e47d836159aa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Windows/Usefull Commands.md",
+            "mode": "source"
+          }
+        },
+        "group": "108ad5d6dab813bd"
+      },
+      {
+        "id": "ec85055cf0cab2b2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Windows/Usefull Commands.md",
+            "mode": "preview"
+          }
+        },
+        "group": "108ad5d6dab813bd"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e828df6159f44506",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb5c9c24f009c798",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3a82d6a832f56c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d361b059357cbf26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "08b27e09ea7037ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "d72882e4adb23b3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38dc8dd54f4e4e9a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Windows/Usefull Commands.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ab63e47d836159aa",
+  "lastOpenFiles": [
+    "Windows/Usefull Commands.md",
+    "Linux/Helpful Facts.md",
+    "Linux/Useful Commands.md"
+  ]
+}
